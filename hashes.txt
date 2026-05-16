@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Chokhher Bhasha
+
+This log tracks the cryptographic history and versioning for the song **Chokhher Bhasha** (chokhher-bhasha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T09:28:44.971361 | `v1` | `7186c19bd4a1bc7c957795b37a4105403b46d2cdfdd1ba59ffdb79fc09828b29` | `22644792928dd41254ffe1bd77b20a034dac047ef3a9e49d6f8780d6ffd88e8d` | `2026-05-16_chokhher-bhasha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

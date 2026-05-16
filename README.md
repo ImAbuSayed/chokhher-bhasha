@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chokhher-bhasha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Chokhher Bhasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chokhher-bhasha/) |
+| **Get License** | [Music Rights & Licensing for Chokhher Bhasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chokhher-bhasha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7186c19bd4a1bc7c957795b37a4105403b46d2cdfdd1ba59ffdb79fc09828b29` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
